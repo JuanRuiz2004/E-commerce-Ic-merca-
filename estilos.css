@@ -1,0 +1,190 @@
+body{
+    background-color: blanchedalmond;
+}
+.TITULO{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.productos{
+    background-color: white;
+    width:1900px;
+    height: 700px;
+    border-radius: 40px;
+    box-shadow: 25px;
+    bottom: 90px;
+}
+
+
+    .lista{
+        background-color: wheat;
+        width: 260px;
+        height: 500px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 20px;
+        border-radius: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+    
+    .todosp{
+        border: 4px solid black;
+    }
+    .abrigo{
+        border: 4px solid black;
+    }
+    .camisa{
+        border: 4px solid black;
+    }
+    .pantalones{
+        border: 4px solid black;
+    }
+    .carrito{
+        border: 4px solid black;
+    }
+
+
+.chaqueta_azul{
+    width: 240px;
+    height: 240px;
+    
+}
+.chaqueta_negra{
+    width: 240px;
+    height: 240px;
+    
+}
+.chaqueta_blanca{
+    width: 240px;
+    height: 240px;
+    
+}
+.chaqueta_sintetica{
+    width: 240px;
+    height: 240px;
+    
+}
+.chaqueta_algodon{
+    width: 240px;
+    height: 240px;
+    
+}
+.camiseta_licra{
+    width: 240px;
+    height: 240px;
+    
+}
+.camiseta_polo{
+    width: 240px;
+    height: 240px;
+    
+}
+.camiseta_crosfit{
+    width: 240px;
+    height: 240px;
+    
+}
+.camiseta_rock{
+    width: 240px;
+    height: 240px;
+    
+}
+.camiseta_nezuko{
+    width: 240px;
+    height: 240px;
+    
+}
+.pantalon_licrado{
+    width: 240px;
+    height: 240px;
+    
+}
+.pantalon_camuflado{
+    width: 240px;
+    height: 240px;
+    
+    
+}
+.pantalon_jogger{
+    width: 240px;
+    height: 240px;
+    
+}
+.chaqueta_azul{
+    width: 240px;
+    height: 240px;
+    
+}
+.pantalon_jean{
+    width: 240px;
+    height: 240px;
+    
+}
+.pantalon_dreal{
+    width: 240px;
+    height: 240px;
+    
+}
+
+.chaquetas{
+    background-color: white;
+    width:1900px;
+    height: 700px;
+    border-radius: 40px;
+    box-shadow: 25px;
+    bottom: 90px;
+    display: flex;
+    justify-content: space-around;
+    gap:  20px 30px;
+   }
+.camisetas{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    width:1900px;
+    height: 700px;
+    border-radius: 40px;
+    box-shadow: 25px;
+    bottom: 90px;
+    display: flex;
+    justify-content: space-around;
+    gap:  20px 30px;
+}   
+
+.pantalon{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    width:1900px;
+    height: 700px;
+    border-radius: 40px;
+    box-shadow: 25px;
+    bottom: 90px;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px 30px;
+}
+
+.productos_de_carrito{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    width:1900px;
+    height: 700px;
+    border-radius: 40px;
+    box-shadow: 25px;
+    bottom: 90px;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px 30px;
+}
+
+.mensaje{
+    background-color: white;
+    height: 120px;
+    border-radius: 40px;
+    box-shadow: 30px 30px 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
