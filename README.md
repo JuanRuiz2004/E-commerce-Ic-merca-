@@ -1,23 +1,23 @@
 # E-commerce-ic-merk😊😘
 
-Este es un proyecto acerca de una pagina web que tiene que ver con un tema personal, el super mercado de mi familia y como en un futuro podria llegar a verse, este es el primer boceto o forma de como se verìa
+Esta es la evaluacion de este modulo, lo que tenemos que hacer es una tipo de i-commerce con los productos que se nos dan y tenemos que poner a prueba todos nuestros conocimientos aprendidos en clase y por nuestra cuenta
 
 ### Pre-requisitos 📋😎
 
-__1). para abrirlo necesitas tener descargado visual estudio code__
-__2). deberas descargar las extensiones de HTML y css__
-__3). Prueba que sirvan__
+- 1). para abrirlo necesitas tener descargado visual estudio code.
+- 2). deberas descargar las extensiones de HTML y css.
+- 3). Prueba que sirvan.
 
 ### Como Instalarlo 🔧👌
 
-_Ya con los pre requisitos descargados lo primero que debes de hacer es descargar el archivo.zip_
+- Ya con los pre requisitos descargados lo primero que debes de hacer es descargar el archivo.zip.
 
 
 ## Ejecutando las pruebas ⚙️
 
-__Lo primero que se debe de hacer luego de descargar el archivo.zip es abrirlo
-luego luego lo que hacemos es abrir con click derecho en el archivo que dice, todos los preoductos
-luego disfruta del programa_
+- Lo primero que se debe de hacer luego de descargar el archivo.zip es abrirlo
+- Luego luego lo que hacemos es abrir con click derecho en el archivo que dice, todos los preoductos
+- Luego disfruta del programa
 
 ## Construido con 🛠️
 
