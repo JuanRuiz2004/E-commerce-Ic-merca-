@@ -4,9 +4,9 @@ Este es un proyecto acerca de una pagina web que tiene que ver con un tema perso
 
 ### Pre-requisitos 📋😎
 
-_1). para abrirlo necesitas tener descargado visual estudio code
-2). deberas descargar las extensiones de HTML y css
-3). Prueba que sirvan_
+__1). para abrirlo necesitas tener descargado visual estudio code__
+__2). deberas descargar las extensiones de HTML y css__
+__3). Prueba que sirvan__
 
 ### Como Instalarlo 🔧👌
 
